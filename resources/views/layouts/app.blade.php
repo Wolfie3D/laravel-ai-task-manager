@@ -722,7 +722,7 @@
         <footer>
             <div class="footer-text">
                 &copy; {{ date('Y') }} TaskManager | Crafted with ❤️ by <a href="https://github.com/arafat-web"
-                    target="_blank">Arafat Hossain Ar</a>
+                    target="_blank">Chris Kamau</a>
             </div>
         </footer>
     </div>
